@@ -14,12 +14,14 @@ You a text file within the first row there are three integers separeted by a spa
   1. number S of stellar systems (from 1 to S);
   2. number C of connection between systems;
   3. number W wormholes;
+  
 The last W systems have a wormhole.
 The other C rows have three numbers S1,S2 and T; starting system, end system and travel time.
   1. every travel between two points on the map has a different T time;
   2. every travel between two points is bidirectional;
   3. travel between two wormhole costs one unit time;
   4. the traveler can decide to use wormhole or not.
+
 The goal is to compute the fastest path from system1 to system2, indicating the systems to cross.
 Assume that :
   1. 2 ≤ S ≤ 1000
