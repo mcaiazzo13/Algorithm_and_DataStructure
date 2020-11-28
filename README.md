@@ -22,6 +22,6 @@ The other C rows have three numbers S1,S2 and T; starting system, end system and
   4. the traveler can decide to use wormhole or not.
 The goal is to compute the fastest path from system1 to system2, indicating the systems to cross.
 Assume that :
-  1. 2 <= S <= 1000
-  2. 1 <= C <= 10000
-  3. 2 <= W <= S
+  1. 2 ≤ S ≤ 1000
+  2. 1 ≤ C ≤ 10000
+  3. 2 ≤ W ≤ S
