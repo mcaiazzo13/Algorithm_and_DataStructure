@@ -1,7 +1,7 @@
 # Algorithm_and_DataStructure
 
 University project from Algorithm and data structures's exam.
-The main goal of this exam is to show how i learned data structures and problem solving.
+This is one of the most important exam in computer science, learning data structures, algorithms and their complexity. This is just one part of the exam.
 
 # 1
 Suppose you have to memorize rows which are stored in this format :
