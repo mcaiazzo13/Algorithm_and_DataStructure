@@ -4,7 +4,8 @@ University project from Algorithm and data structures's exam.
 The main goal of this exam is to show how i learned data structures and problem solving.
 
 # 1
-Suppose you have to memorize rows which are stored in this format : key1:key2:data.
+Suppose you have to memorize rows which are stored in this format :
+key1:key2:data.
 Key1 and Key2 are integers and data is an alphanumeric string having arbitrary lenght. 
 Project and implement a data structure like so, from a red-black tree where each node points to an hash table. Keep in mind that key1 is the key for red-black tree's node and key2 is the indexing the hash table where is stored data.
 This data structure has to allows you to insert, search and delete a row; create a menu for doing so.
