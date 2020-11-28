@@ -1,6 +1,7 @@
 # Algorithm_and_DataStructure
 
 University project from Algorithm and data structures's exam.
+The main goal of this exam is to show how i learned data structures and problem solving.
 
 # 1
 Suppose you have to memorize rows which are stored in this format : key1:key2:data.
